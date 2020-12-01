@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 
-{
+{cout<<"Enter Input"<<endl;
     int a;
     cin>>a;
-    cout<<a;}
+    cout<<a<<endl;
+}
